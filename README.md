@@ -1,2 +1,2 @@
 # cbtranscriptor
-Make transcript for Camp Buddy (BL Game)
+Transcript generator for Camp Buddy (BL)
